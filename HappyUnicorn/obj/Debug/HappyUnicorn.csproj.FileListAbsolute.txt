@@ -78,3 +78,17 @@ C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\D
 C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\Ninject.dll
 C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\Ninject.xml
 C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CopyComplete
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\bin\Debug\Ninject.dll
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\bin\Debug\Ninject.xml
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CopyComplete
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\releaseProject 11-01-2020\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
