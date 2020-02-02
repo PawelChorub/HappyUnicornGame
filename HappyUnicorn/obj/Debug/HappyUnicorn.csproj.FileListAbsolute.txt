@@ -1,0 +1,80 @@
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł\source\repos\gameTest\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Projects\C#\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — bool — event\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csprojAssemblyReference.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.GameWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.Properties.Resources.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.StartWindow.resources
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.GenerateResource.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CoreCompileInputs.cache
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\HappyUnicorn.exe.config
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\HappyUnicorn.exe
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\HappyUnicorn.pdb
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\Ninject.dll
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\bin\Debug\Ninject.xml
+C:\Users\Paweł.000\source\repos\HappyUnicornGame — release\HappyUnicorn\obj\Debug\HappyUnicorn.csproj.CopyComplete
